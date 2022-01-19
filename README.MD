@@ -1,4 +1,13 @@
-# H1 Longest Increasing Subsequence
+# Longest Increasing Subsequence (ver 0.1)
+
+## Ver 0.1
+Initial Version. Has some test code to do with C++ std::list<>
+
+
+## Todo
+Implement the recursive function that solves the problem
+1. Implement the base case solution
+2. Implement the solution for other cases
 
 
 Problem:
