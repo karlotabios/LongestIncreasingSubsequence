@@ -43,8 +43,8 @@ g++ lis.o -o lis
 ```
 
 
-How to execute the program correctly
---------------------------------
+Program usage
+-------------
 1. Create an input file containing the sequence of numbers. Use the file name "input.txt" following the format of the example below:
 ```
 1 2 3 4 101 102 90
